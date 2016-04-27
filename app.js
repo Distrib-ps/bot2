@@ -3,7 +3,7 @@
  * Fichier principal
  */
 var wsclient = require('websocket').client,
-    sys = require('sys'),
+    util = require('util'),
     https = require('https');
 
 global.Parser = require('./parser.js').Parser;
