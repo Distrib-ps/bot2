@@ -13,7 +13,7 @@
  * autoR: Réponses auto (true ou false)
  **/
 
-exports.username = 'Juif';
+exports.username = 'azdrgdhugfd';
 exports.pw       = 'default';
 exports.server   = 'sim.smogon.com';
 exports.port     = 8000;
